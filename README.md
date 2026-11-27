@@ -54,8 +54,9 @@ Fikirden canlıya, uçtan uca. Satış ekibinin her gün kullandığı arama ve 
 | Project | |
 |---|---|
 | 🛒 [**market-scraper**](https://github.com/demiralpozturk/market-scraper) | Daily price comparison of 6 Turkish supermarkets. Open JSON data + [live page](https://demiralpozturk.github.io/market-scraper/). |
+| 📰 [**resmi-gazete-takip**](https://github.com/demiralpozturk/resmi-gazete-takip) | Reads Turkey's Official Gazette every morning, tags every item by topic and publishes open JSON, RSS feeds (customs & trade first) and a searchable [live site](https://demiralpozturk.github.io/resmi-gazete-takip/). |
 
-> 🔜 Coming soon: an offline PDF toolkit, a Resmî Gazete tracker with RSS feeds and a Turkish speech-to-text desktop app.
+> 🔜 Coming soon: an offline PDF toolkit and a Turkish speech-to-text desktop app.
 
 ---
 
