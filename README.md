@@ -57,6 +57,10 @@ Fikirden canlıya, uçtan uca. Satış ekibinin her gün kullandığı arama ve 
 | 🎙️ [**video-transkript**](https://github.com/demiralpozturk/video-transkript) | Desktop speech-to-text studio for Turkish (Whisper): batch transcription with live timestamps, TXT/SRT/VTT export, resume support. Runs locally. [Download](https://github.com/demiralpozturk/video-transkript/releases/latest) |
 | 🛒 [**market-scraper**](https://github.com/demiralpozturk/market-scraper) | Daily price comparison of 6 Turkish supermarkets. Open JSON data + [live page](https://demiralpozturk.github.io/market-scraper/). |
 | 📰 [**resmi-gazete-takip**](https://github.com/demiralpozturk/resmi-gazete-takip) | Reads Turkey's Official Gazette every morning, tags every item by topic and publishes open JSON, RSS feeds (customs & trade first) and a searchable [live site](https://demiralpozturk.github.io/resmi-gazete-takip/). |
+| 🤖 [**turkiye-mcp**](https://github.com/demiralpozturk/turkiye-mcp) | MCP server that gives Claude, Cursor and other AI assistants Turkish public data: TCMB exchange rates, Official Gazette, supermarket prices, public holidays, provinces/districts and TCKN/VKN/IBAN checksum validation. |
+| 🧾 [**e-fatura-ubl-tr**](https://github.com/demiralpozturk/e-fatura-ubl-tr) | Python library and CLI to build, validate and preview Turkish e-Fatura / e-Arşiv invoices (UBL-TR 1.2), checked against GİB's official XSD and schematron. |
+| 🪙 [**cc-token-saver**](https://github.com/demiralpozturk/cc-token-saver) | Claude Code plugin that cuts wasted tokens: blocks lockfile/bundle reads, stops repeat reads, condenses noisy build/test output and shows session cost. Zero dependencies. |
+| 🗂️ [**awesome-turkiye-acik-veri**](https://github.com/demiralpozturk/awesome-turkiye-acik-veri) | Curated list of Türkiye's open data sources, public APIs and datasets for developers. |
 
 
 ---
