@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/demiralpozturk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Software+%26+Automation+Developer;Desktop+apps+%C2%B7+Web+%C2%B7+Customs+%26+Logistics+Tech;Yaz%C4%B1l%C4%B1m+%26+Otomasyon+Geli%C5%9Ftirici;I+turn+manual+work+into+software+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=680&lines=AI-Powered+Software+%26+Automation+Developer;CRMs+%C2%B7+Telegram+%26+WhatsApp+Bots+%C2%B7+Desktop+%26+Web;Yapay+Zek%C3%A2+%C3%B6nce+gelir%2C+elle+i%C5%9F+sonra+%E2%9A%A1;I+turn+manual+work+into+software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,19 +16,25 @@
 
 ### 👨‍💻 About me
 
-- 🏢 Software & automation at **Aslan Group**: customs, logistics and foreign trade.
-- 📍 İstanbul (Anatolian side), Türkiye
-- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/demiralp-%C3%B6zt%C3%BCrk/)
-- 🛠️ I build desktop apps, web platforms and automations that remove manual work: CRM & audit systems, finance workflows, document toolkits, field check-in apps and reporting bots.
-- 🌱 Now building **open-source tools** for developers and businesses in Turkey.
-- ⚡ Python · C# · PHP · TypeScript. I like shipping things that people use every day.
+I'm a software & automation developer at **Aslan Group** (customs, logistics and foreign trade) in İstanbul. I use **AI professionally every day**: to design, write and ship software fast, and inside the products themselves. I build the tools a growing company actually runs on: CRMs, bots, finance workflows, reporting engines, desktop apps and websites.
+
+- 🤖 **AI-first engineering:** LLMs (GPT, Claude) in my daily workflow, plus AI features in production: CRM assistants, AI image generation, Whisper speech-to-text, AI-assisted customs tariff (HS/GTİP) lookup.
+- 💬 **Bots:** Telegram & WhatsApp bots for notifications, reporting and customer messaging; automated e-mail reports that run on a schedule.
+- 📈 **Business development systems:** a CRM where every call and company meeting is logged and followed up: call records, meeting notes, target-company lists, tags, reminders, calendar, Outlook e-mail templates, company & contact finder, PDF reports.
+- 🏢 **Internal platforms:** CRM & audit system, finance & payment-approval workflow (four-eyes, audit trail), HR leave & time-tracking integrations, field check-in mobile app, document/PDF toolkit, license servers.
+- 🌐 **Web:** corporate websites, admin panels, CMS and Next.js portals; deployed on Linux (Nginx, PM2) and Vercel.
+- 🌱 **Open source:** building free tools for Turkey, like daily supermarket price comparison and a Resmî Gazete tracker.
+- 📍 İstanbul (Anatolian side), Türkiye · 🤝 [Let's connect on LinkedIn](https://www.linkedin.com/in/demiralp-%C3%B6zt%C3%BCrk/)
 
 ### 🇹🇷 Hakkımda
 
-- 🏢 **Aslan Group**'ta yazılım ve otomasyon: gümrük, lojistik ve dış ticaret.
-- 📍 İstanbul (Anadolu Yakası)
-- 🛠️ Elle yapılan işi ortadan kaldıran masaüstü uygulamalar, web platformları ve otomasyonlar geliştiriyorum.
-- 🌱 Türkiye için herkesin kullanabileceği **açık kaynak araçlar** üretiyorum.
+İstanbul'da **Aslan Group**'ta (gümrük, lojistik, dış ticaret) yazılım ve otomasyon geliştiriyorum. **Yapay zekâyı her gün profesyonel olarak kullanıyorum**: hem yazılımı hızlı tasarlayıp geliştirmek için hem de ürünlerin içinde.
+
+- 🤖 **Yapay zekâ:** GPT ve Claude ile geliştirme; ürünlerde YZ asistanı, YZ görsel üretimi, Whisper ile Türkçe transkript, YZ destekli GTİP sorgulama.
+- 💬 **Botlar:** Telegram ve WhatsApp botları; zamanlanmış otomatik e-posta raporları.
+- 📈 **İş geliştirme:** her aramanın ve firma görüşmesinin kayıt altına alındığı CRM: arama kayıtları, görüşme notları, hedef firma listeleri, etiket ve takip, hatırlatma, takvim, Outlook şablonları, firma ve kişi bulucu, PDF raporlar.
+- 🏢 **Şirket içi sistemler:** CRM ve denetim, finans ve ödeme talimatı onayı, izin/PDKS entegrasyonları, saha check-in mobil uygulaması, PDF araç kutusu, lisans sunucuları.
+- 🌐 **Web:** kurumsal siteler, yönetim panelleri, CMS ve Next.js portalları.
 
 ---
 
@@ -38,17 +44,18 @@
 |---|---|
 | 🛒 [**market-scraper**](https://github.com/demiralpozturk/market-scraper) | Daily price comparison of 6 Turkish supermarkets (Migros, A101, ŞOK, BİM, CarrefourSA, Hakmar). Open JSON data + [live page](https://demiralpozturk.github.io/market-scraper/). |
 
-> 🔜 **Coming soon:** an offline PDF toolkit (your files never leave your computer) and a daily Resmî Gazete tracker with RSS feeds.
+> 🔜 **Coming soon:** an offline PDF toolkit (your files never leave your computer), a daily Resmî Gazete tracker with RSS feeds, and a Turkish speech-to-text desktop app.
 
 ### 🧰 What I've built
 
-- 📊 CRM & audit platform for a customs and logistics group
-- 💰 Finance & treasury approval system (four-eyes approval, full audit trail)
-- 📈 Business-development CRM desktop app with a shared server
-- 🧾 Offline document & PDF conversion toolkit with 34 tools
-- 📍 Field check-in mobile app (iOS / Android) with an admin panel
-- 🎙️ Turkish batch transcription app powered by Whisper
-- 🤖 Customs reporting and e-mail automations
+| Area | Systems |
+|---|---|
+| 🤖 AI | CRM AI assistant · AI social-media image studio · Whisper transcription app · AI customs tariff (GTİP) assistant |
+| 💬 Bots & automation | Telegram & WhatsApp bots · scheduled e-mail report engine · Resmî Gazete tracker · price scrapers |
+| 📈 Sales & CRM | Business-development CRM with call & meeting logs · CRM & audit platform · lead lists & company finder |
+| 💰 Finance & HR | Payment-approval & treasury system · leave & time-attendance integrations · workforce analytics |
+| 📱 Apps | Field check-in app (iOS/Android, Expo) · desktop apps in C# and Python (Qt) · offline PDF toolkit (34 tools) |
+| 🌐 Web | Corporate websites · admin panels & CMS · Next.js portals · license servers (FastAPI) |
 
 ---
 
@@ -79,6 +86,13 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
+
+**AI & bots:**
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Whisper-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+<img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<img src="https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 
 ---
 
