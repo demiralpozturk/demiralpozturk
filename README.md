@@ -53,10 +53,11 @@ Fikirden canlıya, uçtan uca. Satış ekibinin her gün kullandığı arama ve 
 
 | Project | |
 |---|---|
+| 📄 [**offline-pdf**](https://github.com/demiralpozturk/offline-pdf) | Free, open-source PDF toolkit for Windows with 15 tools: merge, split, compress, reorder, watermark, protect and more. 100% offline: your files never leave your computer. [Download](https://github.com/demiralpozturk/offline-pdf/releases/latest) |
+| 🎙️ [**video-transkript**](https://github.com/demiralpozturk/video-transkript) | Desktop speech-to-text studio for Turkish (Whisper): batch transcription with live timestamps, TXT/SRT/VTT export, resume support. Runs locally. [Download](https://github.com/demiralpozturk/video-transkript/releases/latest) |
 | 🛒 [**market-scraper**](https://github.com/demiralpozturk/market-scraper) | Daily price comparison of 6 Turkish supermarkets. Open JSON data + [live page](https://demiralpozturk.github.io/market-scraper/). |
 | 📰 [**resmi-gazete-takip**](https://github.com/demiralpozturk/resmi-gazete-takip) | Reads Turkey's Official Gazette every morning, tags every item by topic and publishes open JSON, RSS feeds (customs & trade first) and a searchable [live site](https://demiralpozturk.github.io/resmi-gazete-takip/). |
 
-> 🔜 Coming soon: an offline PDF toolkit and a Turkish speech-to-text desktop app.
 
 ---
 
